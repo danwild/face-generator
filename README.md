@@ -7,7 +7,7 @@ Uses the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/pr
 ![Screenshot](/screenshots/example.png?raw=true)
 
 ## Setup notes
-I'm using AWS' [Deep Learning AMI (Ubuntu) v23](https://aws.amazon.com/marketplace/pp/B077GCH38C) 
+I'm using AWS' [Deep Learning AMI (Ubuntu) v23](https://aws.amazon.com/marketplace/pp/B077GCH38C) (however to run remotely on CPU follow the binder link).
 
 ```
 # enter provided env
