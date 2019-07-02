@@ -4,7 +4,7 @@ Face generation with Deep Convolutional Generative Adversarial Networks (DCGAN).
 Uses the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train the networks, which then produces new faces (which are mostly white people due to bias in training dataset).
 
 ## Example output:
-![Screenshot](/screenshots/example.png?raw=true)
+![Screenshot](/screenshots/faces-50.png?raw=true)
 
 ## Setup notes
 I'm using AWS' [Deep Learning AMI (Ubuntu) v23](https://aws.amazon.com/marketplace/pp/B077GCH38C) (however to run remotely on CPU follow the binder link).
